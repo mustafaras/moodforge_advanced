@@ -1,3 +1,4 @@
+![1](https://github.com/user-attachments/assets/2296e644-249b-4db6-bfc0-47d0520a0c7b)
 ![image](https://github.com/user-attachments/assets/772ba161-4ef0-4320-bab6-b9e044735856)
 
 # 🧠 MoodForge Advanced- AI Supported-Psychiatry-Psychology
@@ -287,5 +288,7 @@ This is a research prototype intended for **simulation, education, and experimen
 MoodForge Advanced is part of a broader research initiative on **AI-assisted psychiatry**, **digital mental health**, and **neuro-informatics**. [/mustafarasit](https://github.com/mustafaras)
 
 Feel free to contribute, cite, or fork!
+![2](https://github.com/user-attachments/assets/ca6e4cfd-e745-4a1f-a2f9-b347ca47e241)
+
 
 
