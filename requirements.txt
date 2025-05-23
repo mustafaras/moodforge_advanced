@@ -1,0 +1,13 @@
+joblib           # Model kaydetme/yükleme ve paralel hesaplama için yardımcı araçlar
+matplotlib       # Grafik ve veri görselleştirme
+numpy            # Sayısal işlemler ve diziler
+openai           # OpenAI API erişimi/chatbot entegrasyonu
+pandas           # Veri analizi ve veri çerçevesi işlemleri
+plotly           # Etkileşimli görselleştirme/grafikler
+python-dotenv    # .env dosyasından çevre değişkeni yükleme
+scikit-learn     # Makine öğrenimi algoritmaları ve araçları
+seaborn          # İstatistiksel veri görselleştirmeleri (matplotlib tabanlı)
+shap             # Model açıklanabilirliği/özellik önemliliği analizi
+streamlit        # Veri uygulamaları için hızlı web arayüzü
+tenacity         # Yeniden deneme (retry) algoritmaları
+tensorflow       # Derin öğrenme ve yapay sinir ağları
