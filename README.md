@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/772ba161-4ef0-4320-bab6-b9e044735856)
+
 # 🧠 MoodForge Advanced- AI Supported-Psychiatry-Psychology
 
 **MoodForge Advanced** is a high-fidelity, multimodal simulation engine for **digital psychiatry** and **AI-supported psychiatric risk modeling**. It creates synthetic patients, simulates their daily psychological profiles, and evaluates them using natural language processing, emotion recognition, psychometric scores, and physical activity metrics.
@@ -17,6 +19,9 @@
 - Explains model outputs using SHAP (Explainable ML)
 
 ---
+![image](https://github.com/user-attachments/assets/63748a96-cfff-48fc-8bf0-78b4f7256642)
+![image](https://github.com/user-attachments/assets/d7ee612b-43de-4e7f-a280-5636f92f4f35)
+
 
 ## ⚙️ Technologies Used
 
@@ -50,6 +55,10 @@ MoodForge uses a trained **Random Forest Classifier** to predict psychiatric ris
 
 - Grade I–II: Normal to mild symptoms
 - Grade III–V: Clinical risk increases
+
+![image](https://github.com/user-attachments/assets/1df3c908-bf9b-44fb-aa57-0bc53140265e)
+![image](https://github.com/user-attachments/assets/cca6ad6d-1c89-4cec-9845-de67e6603e1e)
+![image](https://github.com/user-attachments/assets/02b22056-5ee8-4bfa-ab93-ce98e183d33b)
 
 ### 🔍 Explainability with SHAP
 
