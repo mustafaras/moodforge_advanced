@@ -163,6 +163,8 @@ streamlit run moodforge_main.py
 
 ---
 
+https://github.com/user-attachments/assets/5b10f80e-ecdd-42ba-9ac6-6ffa4275fade
+
 ## 📁 Directory Structure
 
 ```text
