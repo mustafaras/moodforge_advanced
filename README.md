@@ -141,7 +141,7 @@ References used in simulation logic:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mustafarasit/moodforge_advanced_psychiatry_psychology.git
+git clone https://github.com/mustafaras/moodforge_advanced_psychiatry_psychology.git
 cd moodforge_advanced_moodforge_advanced_psychiatry_psychology
 ```
 
