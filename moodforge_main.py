@@ -1729,11 +1729,6 @@ assets_path = os.path.join(os.path.dirname(__file__), "assets")
 # Sidebar için logo
 logo_path_sidebar = os.path.join(assets_path, "moodforge.jpg")
 
-# Streamlit dil seçici
-st.sidebar.markdown("### 🌐 Language")
-selected_lang = st.sidebar.radio("Choose Language:", ["English", "Türkçe"])
-_localizer.translations = Localizer("tr" if selected_lang == "Türkçe" else "en").translations
-
 if os.path.exists(logo_path_sidebar):
     st.sidebar.image(logo_path_sidebar, use_container_width=True)
 else:
