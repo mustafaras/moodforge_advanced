@@ -5,7 +5,6 @@ from templates.journal_templates import get_journal
 from templates.audio_templates import get_audio
 from templates.video_templates import get_video_emotion_scores
 from projection import run_simulation_for_patient
-from localizer import _localizer, Localizer
 import shap
 import pickle
 import matplotlib.pyplot as plt
